@@ -16,7 +16,7 @@ function greet() {
   else if (h < 18) per = "afternoon";
   else per = "evening";
 
-  document.getElementById('greeting').innerHTML = "good " + per + ", ray";
+  document.getElementById('greeting').innerHTML = "good " + per + " ray";
 
   var t = setTimeout(greet, 1800000);
 }
@@ -41,7 +41,7 @@ function time() {
     m = checkTime(m);
     s = checkTime(s);
 
-    document.getElementById('time').innerHTML = "it's " + h + ":" + m
+    document.getElementById('time').innerHTML = "it is " + h + ":" + m
                                                  + ":" + s + ' ' + tc;
 
 
@@ -71,8 +71,8 @@ function date() {
   else if (date == 3) oi = "rd";
   else oi = "th";
 
-  document.getElementById('date').innerHTML = day + ", " + month + ' '
-                          + date + oi + ", " + today.getFullYear();
+  document.getElementById('date').innerHTML = day + ' ' + month + ' ' +
+                                  date + oi + " " + today.getFullYear();
 }
 
 function keyup(e) {
