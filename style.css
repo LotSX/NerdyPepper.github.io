@@ -67,112 +67,112 @@ a:link , a:visited{
 
 }
 
-#fourchan {
+#a0 {
   text-decoration: none;
   border: 2px solid #cb4b16;
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#github {
+#a1 {
   text-decoration: none;
   border:2px solid #dc322f;
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#linkedin {
+#a2 {
   text-decoration: none;
   border:2px solid #d33682;
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#reddit {
+#a3 {
   text-decoration: none;
   border:2px solid #6c71c4;
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#soundcloud {
+#a4 {
   text-decoration: none;
   border:2px solid #268bd2;
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#twitter {
+#a5 {
   text-decoration: none;
   border:2px solid #2aa198;
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#stackoverflow {
+#a6 {
   text-decoration: none;
   border:2px solid var(--green);
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#youtube {
+#a7 {
   text-decoration: none;
   border:2px solid var(--yellow);
   margin: 5px;
   transition: 0.5s ease;
 }
 
-#fourchan:hover {
+#a0:hover {
   transition: 0.5s ease;
   text-decoration: none;
   background-color: #cb4b16;
   color: #ffffff;
 }
 
-#github:hover {
+#a1:hover {
   transition: 0.5s ease;
   text-decoration: none;
   background-color: #dc322f;
   color: #ffffff;
 }
 
-#linkedin:hover {
+#a2:hover {
   transition: 0.5s ease;
   text-decoration: none;
   background-color: #d33682;
   color: #ffffff;
 }
 
-#reddit:hover {
+#a3:hover {
   transition: 0.5s ease;
   text-decoration: none;
   background-color: #6c71c4;
   color: #ffffff;
 }
 
-#soundcloud:hover {
+#a4:hover {
   transition: 0.5s ease;
   text-decoration: none;
   background-color: #268bd2;
   color: #ffffff;
 }
 
-#twitter:hover {
+#a5:hover {
   transition: 0.5s ease;;
   text-decoration: none;
   background-color: #2aa198;
   color: #ffffff;
 }
 
-#stackoverflow:hover {
+#a6:hover {
   transition: 0.5s ease;
   text-decoration: none;
   background-color: var(--green);
   color: #ffffff;
 }
 
-#youtube:hover {
+#a7:hover {
   text-decoration: none;
   background-color: var(--yellow);
   color: #ffffff;

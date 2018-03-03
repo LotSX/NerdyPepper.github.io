@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"expect",
+				"expectedWidth\tconst"
+			],
+			[
+				"right",
+				"rightSelected\tproperty"
+			],
+			[
+				"left",
+				"leftSelected\tproperty"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"alig",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"auti",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/raychen/projects/Nimble",
+		"/Users/raychen/projects/Nimble/Nimble",
+		"/Users/raychen/projects/Nimble/Nimble/src",
+		"/Users/raychen/projects/Nimble/Nimble/src/app",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/flashcard",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-icons",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-nimble",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-terminology",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/matching",
+		"/Users/raychen/projects/Nimble/Nimble/src/assets",
+		"/Users/raychen/projects/Nimble/Nimble/src/assets/matching"
+	],
+	"file_history":
+	[
+		"/Users/raychen/projects/Nimble/Nimble/src/app/matching/matching.component.spec.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/app.component.spec.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/matching/matching.component.html",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/matching/matching.component.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/app.component.css",
+		"/Users/raychen/projects/Nimble/Nimble/.travis.yml",
+		"/Users/raychen/projects/Nimble/Nimble/karma.conf.js",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/app.module.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/flashcard/flashcard.component.spec.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-icons/intro-icons.component.spec.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-nimble/intro-nimble.component.spec.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-terminology/intro-terminology.component.spec.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/app.component.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/flashcard/flashcard.component.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/flashcard/flashcard.component.html",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/app.component.html",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/matching/matching.component.css",
+		"/Users/raychen/projects/Nimble/Nimble/src/assets/matching/icons.ts",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-nimble/intro-nimble.component.html",
+		"/Users/raychen/projects/Nimble/Nimble/src/styles.css",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-nimble/intro-nimble.component.css",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-icons/intro-icons.component.css",
+		"/Users/raychen/projects/Nimble/Nimble/src/app/intro-icons/intro-icons.component.html",
+		"/Users/raychen/projects/startpage/nimble.sublime-project",
+		"/Users/raychen/Google Drive/2014-2018/Year 4/2018 Winter/CMPS 183/Homework/cmps183hw1/css/main.css",
+		"/Users/raychen/projects/startpage/style.css",
+		"/Users/raychen/Library/Application Support/Übersicht/widgets/simple-clock.widget/index.coffee",
+		"/Users/raychen/projects/Nimble/.git/rebase-merge/git-rebase-todo",
+		"/Users/raychen/projects/startpage/main.js",
+		"/Users/raychen/projects/startpage/index.html",
+		"/Users/raychen/projects/startpage/.gitignore",
+		"/Users/raychen/projects/startpage/README.md",
+		"/Users/raychen/projects/startpage/changes.vim",
+		"/Users/raychen/Projects/Nimble/README.md",
+		"/Users/raychen/Downloads/hackathon-sinatra-angular2-master/.gitignore"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"iscompleted",
+			"transition",
+			"left",
+			"canvas",
+			"canvas.",
+			"let",
+			".len",
+			"[\"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"]",
+			"node",
+			"[ngClass]=\"",
+			"=\"",
+			"Intro",
+			"\">",
+			">",
+			"isIntro\n  isFlash\n  isMatch",
+			"*ngIf=\"",
+			"left",
+			"Left",
+			"left",
+			"Left",
+			"left",
+			"isCorrect",
+			"ctx",
+			"iscorrect",
+			"numCorrect",
+			"numcorrect",
+			"\": \"",
+			"icons",
+			"ngif",
+			"h3",
+			"index",
+			"!=",
+			"a",
+			"rightSelected",
+			"leftSelected",
+			"initArrays",
+			"initSelections",
+			"leftSelected",
+			"initselec",
+			"initialize",
+			"canvas",
+			"var",
+			"console.log",
+			"imgFolder",
+			"left.",
+			"console.log",
+			"initializearray",
+			"a",
+			"select",
+			"initiailizeEverything",
+			"initializeLeft",
+			"initializeRight",
+			"icon",
+			"\"Browser",
+			"Browser",
+			"browser",
+			"Browser",
+			"\": \"",
+			".png",
+			"\": \"",
+			".png",
+			"add.png",
+			"35",
+			"drawline",
+			"let ",
+			"test",
+			"var",
+			"answers",
+			"icon_add.png\nicon_back.png\nicon_battery.png\nicon_bookmark.png\nicon_brightness.png\nicon_browserchrome.png\nicon_browserfirefox.png\nicon_browserinternetexplorer.png\nicon_browsersafari.png\nicon_camera.png\nicon_cameraflip.png\nicon_close.png\nicon_compose.png\nicon_delete.png\nicon_download.png\nicon_email.png\nicon_emailmac.png\nicon_folder.png\nicon_galleryflower.png\nicon_gallerylandscape.png\nicon_home.png\nicon_information.png\nicon_menudropdown.png\nicon_menuhamburger.png\nicon_menuoverflow.png\nicon_messaging.png\nicon_mute.png\nicon_pause.png\nicon_play.png\nicon_print.png\nicon_reply.png\nicon_save.png\nicon_search.png\nicon_send.png\nicon_settings.png\nicon_sound.png\nicon_toggle.png\nicon_wifi.png\nicon_zoomin.png\nicon_zoomout.png\n",
+			"isRight",
+			"container",
+			"= i",
+			"i",
+			"console.log",
+			"\"\"",
+			"../../assets/mag.png",
+			"test",
+			"assets/matching/mag.",
+			"\"{{left",
+			"\"\"",
+			"\"\",",
+			"nav-icon",
+			"src=\"{{",
+			"n>",
+			"<b",
+			"\"drawLine()",
+			">",
+			"</li>",
+			"<li>",
+			"</button>",
+			"n>",
+			"<b",
+			"<i",
+			"\">",
+			">{{",
+			"{{right",
+			"{{left",
+			"left",
+			"id=\"",
+			"</button>",
+			"id=\"right0\">",
+			"id=\"\"",
+			"name=\"",
+			"<button>",
+			"name=",
+			"name=\"left0\"",
+			"src",
+			"image",
+			"\"image\"",
+			"text",
+			"id=\"\"",
+			"div",
+			"span",
+			"link",
+			"text",
+			"text-shadow",
+			"text-shad",
+			"nav-icon",
+			"font-",
+			"text-",
+			"text-shadow",
+			"FFFFFF",
+			"shadow",
+			"font",
+			"25s ",
+			"btn",
+			"button",
+			"nav-icon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 115.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nimble.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"icons.ts",
+				"Nimble/src/assets/matching/icons.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
